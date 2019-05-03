@@ -5,7 +5,7 @@ while x > 0
   if x == 0
     puts "HAPPY NEW YEAR"
   else
-    puts "#{x} SECOND(S)"
+    puts "#{x} SECOND(S)!"
   end
   x -= 1
 end
